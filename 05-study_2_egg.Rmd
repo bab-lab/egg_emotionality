@@ -1,4 +1,4 @@
-# About
+# Study 2 - EGG - About
 
 ## Summary
 This study will explore the relationship between gastrointestinal activity and emotions utilizing electrogastrography. The specific aims of this study are to (1) establish a relationship between emotionally arousing stimuli and the EGG response, (2) investigate the individual differences that might influence the EGG response to stress (such as early life stress, current stress, trait variables, etc.), (3) examine how the EGG response sits with other physiological indices (such as heart rate and sweat response), and (4) explore the ways in which physical sensations are associated with emotions and physiological responses.

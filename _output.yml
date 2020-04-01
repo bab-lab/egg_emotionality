@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc: 
       before: |
-        <li><a href="./">EGG and Emotionality</a></li>
+        <li><a href="./">EGG/COVID-19 and Emotionality</a></li>
       after: |
         <li><a href="https://brainandbodylab.psych.ucla.edu/" target="blank">BABLab at UCLA</a></li>
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>

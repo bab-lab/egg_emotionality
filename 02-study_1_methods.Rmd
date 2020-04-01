@@ -1,0 +1,75 @@
+# Study 1 - COVID - Methods
+
+## Measures
+
+### Demographics
+
+- Questionnaire to assess
+    - SES
+    - Work situation (or job loss)
+    - Financial situation (or financial stress)
+    - Home country
+
+### Somatic
+- Somatic markers of negative affect (somna)
+- Interoceptive awareness (pre-COVID and during)(maia)
+- Health anxiety (pre-COVID and during)
+- Somatic symptoms (pre-COVID and during)
+- Pennebaker Inventory of Limbid Languidness (pill)
+    - Add don't know (don't pay attention to) response
+- Pedsql_gi
+- Medication checklist
+- Gastrointestinal disorders
+- Rome
+
+### Stress
+- Objective impact (know anyone who has it, how impacted is community, social distancing measures in place)
+- Perceived stress scale (pss)
+- Impact of event scale (ies)
+- Early life stress (ctq)
+- Cognitive capacity (ability to concentrate etc.)
+- Mental health history
+- Post-traumatic growth
+- Acute stress (stanford acute stress reaction questionnaire)
+
+### Mental health
+- DSM-5 Self-Rated Level 1 Cross-Cutting Symptom Measure
+    - I think maybe we should skip logic this to include the other level 2 dsm questionnaires from online
+- State and trait anxiety inventory (stai)
+- Depression (bdi_ii)
+- Mental health history
+    
+### Social
+- Objective social support 
+    - How many people isolating with
+    - What social networks are in place
+    - How often are they communicating with others
+    - Other received social support
+- Perceived social support (pss)
+- UCLA loneliness scale
+- Social craving (may need to adapt substance craving scale)
+
+### Personality
+
+- Introversion and extroversion scale
+- Tolerance for uncertainty/ambiguity/change
+
+### Lifestyle
+
+- Sleep
+- Timeline
+- Diet
+- Exercise
+- Productivity
+
+### Media
+
+- Social media use
+- Traditional media consumption
+- Public health information consumption
+- Use of technology/new media to socialize
+
+
+### Qualitative
+
+- Long form qualitative written response

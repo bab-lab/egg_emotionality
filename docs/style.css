@@ -14,9 +14,9 @@ pre code {
 }
 
 .book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active>a {
-  color: rgb(255,215,0);
+  color: rgb(32,178,170);
 }
 
 .book .book-body .page-wrapper .page-inner section.normal a {
-    color: rgb(255,215,0);
+    color: rgb(32,178,170);
 }

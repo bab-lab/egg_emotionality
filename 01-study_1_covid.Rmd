@@ -1,0 +1,32 @@
+# Study 1 - COVID - About
+
+## Summary
+
+This study will explore the relationship between the global COVID-19 pandemic, somatic symptoms, and psychological stress. 
+
+This study will explore the relationship between emotions and somatic symptamology in the wake of the COVID-19 pandemic, while exploring individual differences in social, environmental, personality, and lifestyle factors which may mitigate or exacerbate the negative psychological impact of this stressor. 
+
+The specific aims of this study are to (1) establish a relationship between psychological stress and somatic symptoms as assessed by our newly developed Somatic Symptoms of Negative Affect (somna) questionnaire, (2) investigate the individual differences that might influence the somatic and psychological response to stress (such as early life stress, social support, media consumption, diet and exercise, lifestyle habits, trait variables, etc.), and (3) examine how specific somatic symptoms in the context of stress may relate to mental health.
+
+We will recruit N = 200 (minimum 150) adult participants. Participants will be recruited online from the UCLA participant pool in the university term directly after the outbreak of COVID-19. Participants will complete a range of questionnaires assessing current levels of stress, social and emotional support and functioning, physical health symptoms, early life adversity, media exposure and consumption, and lifestyle factors.
+
+## Keywords
+stress, emotions, mental health, somatic symptoms
+
+## Background
+
+
+## Specific Aims
+The study will test several hypotheses.
+
+1. Establish a relationship between COVID-19 stress and somatic symptoms
+    - Higher perceived stress during the outbreak of COVID-19 will be associated with greater somatic symptomology on the somna.
+    - Increased interoceptive awareness since the onset of COVID-19 will be associated with greater somatic symptomology 
+    - Increased health anxiety since the onset of COVID-19 will be associated with greater somatic symtpomology
+
+2. Examine how specific somatic symptoms in the context of COVID-19 stress may relate to mental health.
+    - Somatic symptomology will mediate the relationship between perceived stress and anxiety, depression, and panic. 
+   
+3. Investigate individual differences that might influence the emotional response to COVID-19 stress (such as early life stress, social support, media consumption, diet and exercise, lifestyle habits, trait variables, etc.).
+    - Early life stress will be associated with an increased emotional response to COVID-19 stress.
+    - Social support, lifestyle habits (such as sleep, diet, and exercise), personality traits, and media consumption will moderate the association between current stress and emotional response. 
