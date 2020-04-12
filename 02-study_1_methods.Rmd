@@ -4,14 +4,10 @@
 
 ### Information
 
-- Information questionnaire
-    
-- COVID-19 specific questionnaire to assess objective
-    - Symptoms (in self, friends, family, etc.)
-    - Work situation (or job loss)
-    - Financial situation (or financial stress/job loss)
-    - Usual and current household
-    - How impacted is community (isolation measures in place)
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| info** | Information questionnaire | Assesses demographics, health, and location information | TBD
+| covid_objective** | Objective impact of COVID-19 | Assesses the objective impact of COVID-19 including infection, quarantine, household, social distancing etc. | Ref
 
 ### Somatic
 - Somatic markers of negative affect* (somna)
