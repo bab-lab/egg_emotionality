@@ -1,3 +1,6 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
 \documentclass[]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
@@ -6,31 +9,34 @@
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
 \else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
+  \usepackage{unicode-math}
   \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
 \IfFileExists{microtype.sty}{%
-\usepackage{microtype}
+\usepackage[]{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
 \usepackage{hyperref}
-\hypersetup{unicode=true,
+\hypersetup{
             pdftitle={EGG/COVID-19 and Emotionality},
             pdfauthor={Emily Towner},
             pdfborder={0 0 0},
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
-\usepackage{natbib}
-\bibliographystyle{apalike}
 \usepackage{longtable,booktabs}
+% Fix footnotes in tables (requires footnote package)
+\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -40,12 +46,6 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -60,31 +60,10 @@
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
 
-%%% Use protect on footnotes to avoid problems with footnotes in titles
-\let\rmarkdownfootnote\footnote%
-\def\footnote{\protect\rmarkdownfootnote}
-
-%%% Change title format to be more compact
-\usepackage{titling}
-
-% Create subtitle command for use in maketitle
-\providecommand{\subtitle}[1]{
-  \posttitle{
-    \begin{center}\large#1\end{center}
-    }
-}
-
-\setlength{\droptitle}{-2em}
-
-  \title{EGG/COVID-19 and Emotionality}
-    \pretitle{\vspace{\droptitle}\centering\huge}
-  \posttitle{\par}
-    \author{Emily Towner}
-    \preauthor{\centering\large\emph}
-  \postauthor{\par}
-      \predate{\centering\large\emph}
-  \postdate{\par}
-    \date{2020-04-12}
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
 
 \usepackage{booktabs}
 \usepackage{amsthm}
@@ -94,6 +73,12 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{EGG/COVID-19 and Emotionality}
+\author{Emily Towner}
+\date{2020-04-27}
 
 \begin{document}
 \maketitle
@@ -204,22 +189,22 @@ Reference\strut
 \midrule
 \endhead
 \begin{minipage}[t]{0.22\columnwidth}\raggedright
-info**\strut
+info\strut
 \end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
 Information questionnaire\strut
 \end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
 Assesses demographics, health, and location information\strut
 \end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
-TBD\strut
+Made by BABLab\strut
 \end{minipage}\tabularnewline
 \begin{minipage}[t]{0.22\columnwidth}\raggedright
-covid\_objective**\strut
+covid\_objective\strut
 \end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
 Objective impact of COVID-19\strut
 \end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
 Assesses the objective impact of COVID-19 including infection, quarantine, household, social distancing etc.\strut
 \end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
-Ref\strut
+Made by BABLab\strut
 \end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
@@ -227,88 +212,226 @@ Ref\strut
 \hypertarget{somatic}{%
 \subsection{Somatic}\label{somatic}}
 
-\begin{itemize}
-\tightlist
-\item
-  Somatic markers of negative affect* (somna)
-\item
-  Interoceptive awareness (pre-COVID and during)(maia)
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Not sure about this one as it seems more positive? I feel like we need an awareness one (positive) and a fixation one (negative)
-  \end{itemize}
-\item
-  \href{https://psychology-tools.com/test/health-anxiety-inventory}{Health anxiety} (pre-COVID and during)
-\item
-  Somatic symptoms (pre-COVID and during)
-\item
-  Pennebaker Inventory of Limbid Languidness (pill)
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Add don't know (don't pay attention to) response
-  \item
-    Let's modernize a few of these responses?
-  \end{itemize}
-\item
-  Pedsql\_gi (maybe pre and during also)
-\item
-  Medication checklist (add alcohol)(add has this increased or decreased)
-\item
-  Gastrointestinal disorders
-\item
-  Rome
-\item
-  Do we want menstrual\_cycle and psst?
-\end{itemize}
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+\begin{minipage}[b]{0.22\columnwidth}\raggedright
+Title\strut
+\end{minipage} & \begin{minipage}[b]{0.27\columnwidth}\raggedright
+Name\strut
+\end{minipage} & \begin{minipage}[b]{0.22\columnwidth}\raggedright
+Description\strut
+\end{minipage} & \begin{minipage}[b]{0.18\columnwidth}\raggedright
+Reference\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+somna\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Somatic markers of negative affect\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses physical sensations of anxiety and sadness, where they are located, and their intensity\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+Made by BABLab\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+maia\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Multidimensional Assessment of Interoceptive Awareness\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Multidimensional self-report measure of interoceptive body awareness\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+hai\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Health anxiety inventory\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses people's anxiety about health symptoms (hypochondriasis)\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+ss\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Somatic symptoms\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses a range of somatic symptoms in adult participants\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+pill\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Pennebaker inventory of limbid languidness\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Measures people's tendency to notice and report a braod array of physical symptoms and sensations.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+pedsql\_gi\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Pediatric Quality of life -- Gastrointestinal Symptoms Module\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assess incidence of Gastrointestinal Symptoms and fatigue in children\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+med\_check\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Medication checklist\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+List of medications that participants are on -- needed for physiology analyses as well as verification of physical health issues.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+gastrointestinal\_disorders\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Gastrointetsinal disorders questionnaire\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses gastrointestinal issues, their frequency and intensity\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+rome\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Rome IV criteria questionnaire\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses the presence of symptoms which meet criteria for irritable bowel syndrome as stated by the Rome IV\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+menstrual\_cycle\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Menstrual cycle questionnaire\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses menstrual phase, which affects gastrointestinal responding, as well as medications which may affect menstrual phase such as oral contraceptive use\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+psst\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Premenstrual symptoms screening tool\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses premenstrual syndromes and criteria for premenstrual dysphoric disorder (pmdd) as well as premenstrual syndrome (pms).\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
 
 \hypertarget{stress}{%
 \subsection{Stress}\label{stress}}
 
-\begin{itemize}
-\tightlist
-\item
-  Coronavirus subjective (concerns questionnarie (CC) - subjective)
-\item
-  Perceived stress scale (pss)
-\item
-  Acute stress (stanford acute stress reaction questionnaire) or impact of event scale (ies)
-\item
-  Early life stress (ctq)(would like to add a duration and impact or frequency and intensity to this)
-\item
-  Cognitive control and flexibility questionnaire (CCFQ)
-\item
-  Post-traumatic growth (ptgi)
-\item
-  leq
-\item
-  usq
-\end{itemize}
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+\begin{minipage}[b]{0.22\columnwidth}\raggedright
+Title\strut
+\end{minipage} & \begin{minipage}[b]{0.27\columnwidth}\raggedright
+Name\strut
+\end{minipage} & \begin{minipage}[b]{0.22\columnwidth}\raggedright
+Description\strut
+\end{minipage} & \begin{minipage}[b]{0.18\columnwidth}\raggedright
+Reference\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+covid\_subjective\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Subjective impact of COVID-19\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses the subjective impact of COVID-19 on well-being.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+pss\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Perceived stress scale\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+The Perceived Stress Scale is a classic stress assesment instrument. This tool, while originally developed in 1983, remains a popular choice for helping us understand how different situations affect our feelings and our perceived stress. The questions in this scale as about your feelings and thoughts during the last month. In each case, you willl be asked ot indicate how often.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+sasrq\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Stanford acute stress reaction questionnaire\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Assesses the psychological symptoms experienced in the aftermath of a traumatic event.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+cte\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Childhood traumatic events questionnaire\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+The Childhood Traumautic Events Questionnaire is a brief survey of six early traumatic experiences (death, divorce, violence, sexual abuse, illnesss, and upheaval).\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+ctq\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Childhood trauma questionnaire\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+The Childhood Trauma Questionnaire (CTQ) is a self-report instrument covering 28 items, to rate the severity of emotional abuse and neglect, physical abuse and neglect and sexual abuse. It has been validated in terms of psychometric test properties in samples of psychiatric patients, i.e.~drug and substance abusers. This data set includes five CTQ subscale scores.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+ccfq\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Cognitive control and flexibility questionnaire\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+Measures an individual's percevied ability to exert control over intrusive, unwanted (negative) thoughts and emotions, and their ability to flexibly cope with a stressful situation.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+ptgi\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Post-traumatic growth inventory\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+An instrument for assessing positive outcomes reported by persons who have experienced traumatic events.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+usq\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Undergraduate stress questionnaire\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+The undergraduate stress inventory presents students with various stressors and asks them to indicate if any of the events have happened to them. They are also asked how stressed they are by this event.\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.22\columnwidth}\raggedright
+brcs\strut
+\end{minipage} & \begin{minipage}[t]{0.27\columnwidth}\raggedright
+Brief resilient coping scale\strut
+\end{minipage} & \begin{minipage}[t]{0.22\columnwidth}\raggedright
+The Brief Resilient Coping Scale (BRCS) is a 4-item measure designed to capture tendencies to cope with stress in a highly adaptive manner\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
 
 \hypertarget{mental-health}{%
 \subsection{Mental health}\label{mental-health}}
 
 \begin{itemize}
 \tightlist
-\item
-  DSM-5 Self-Rated Level 1 Cross-Cutting Symptom Measure
-
-  \begin{itemize}
-  \tightlist
-  \item
-    I think maybe we should skip logic this to include the other level 2 dsm questionnaires from online (excluding social, panic, gen, depression, and somatic, which we should get from everyone)
-  \end{itemize}
-\item
-  Social anxiety
-\item
-  Panic
-\item
-  General anxiety
-\item
-  Depression
 \item
   State and trait anxiety inventory (stai)
 \item
@@ -328,6 +451,10 @@ Ref\strut
   Social craving (may need to adapt substance craving scale)(adapt from food cravings questionnaire - trait and state - may need to also adapt dimensions of social craving)
 \item
   Adolescent Social Connection \& coping during COVID-19 (ASC3Q)
+\item
+  mspss
+\item
+  scs
 \end{itemize}
 
 \hypertarget{personality}{%
@@ -373,6 +500,17 @@ Ref\strut
   Use of technology/new media to socialize
 \item
   Screen time usage
+\item
+  smcs
+\end{itemize}
+
+\hypertarget{well-being}{%
+\subsection{Well-being}\label{well-being}}
+
+\begin{itemize}
+\tightlist
+\item
+  shs
 \end{itemize}
 
 \hypertarget{qualitative}{%
@@ -385,6 +523,138 @@ Ref\strut
 \end{itemize}
 
 I would like for you to write about your very deepest thoughts and feelings about the way COVID-19 has affected you and your life. I'd like you to really let go and explore your very deepest emotions and thoughts. You might tie your topic to your relationships with others including parents, lovers, friends, or relatives, to your past, your present, of your future, or to who you have been, who you would like to be, or who you are now. All of your writing will be completely confidential. Don't worry about spelling, sentence structure or grammar. The only rule is that you begin writing and keep writing until 5 minutes have passed.
+
+\hypertarget{procedure}{%
+\section{Procedure}\label{procedure}}
+
+\hypertarget{timing}{%
+\subsection{Timing}\label{timing}}
+
+Pilot time:
+
+\begin{itemize}
+\tightlist
+\item
+  Nicole - 1 hour and 50 minutes
+\item
+  Danielle - 1 hour and 15 minutes
+\item
+  Chloe - 1 hour and 5 minutes
+\end{itemize}
+
+\hypertarget{questionnaire-order}{%
+\subsection{Questionnaire Order}\label{questionnaire-order}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  panas (assessed 3 times - once at beginning, once before writing, once after writing)
+\item
+  information
+\item
+  somna
+\item
+  covid\_objective
+\item
+  somatic\_symptoms (assessed currently and retrospectively before COVID-19)
+\item
+  pss
+\item
+  hai (assessed currently and retrospectively before COVID-19)
+\item
+  bdi\_ii (assessed currently and retrospectively before COVID-19)
+\item
+  pill
+\item
+  covid\_subjective
+\item
+  pedsql\_gi (assessed currently and retrospectively before COVID-19)
+\item
+  media\_consumption
+\item
+  ctq
+\item
+  sci
+\item
+  psqi
+\item
+  cte
+\item
+  timeline
+\item
+  uclals
+\item
+  sasrq
+\item
+  ccfq
+\item
+  maia (assessed currently and retrospectively before COVID-19)
+\item
+  stai
+\item
+  usq
+\item
+  bfq (assessed currently and retrospectively before COVID-19)
+\item
+  asc
+\item
+  demographics
+\item
+  shs
+\item
+  mspss
+\item
+  ipaq (assessed currently and retrospectively before COVID-19)
+\item
+  ius
+\item
+  smcs
+\item
+  bfi
+\item
+  ptgi\_brcs
+\item
+  mental\_health\_history
+\item
+  med\_check
+\item
+  gastro
+\item
+  rome
+\item
+  menstrual
+\item
+  panas
+\item
+  written\_response
+\item
+  panas
+\end{enumerate}
+
+\hypertarget{attention-checks}{%
+\subsection{Attention Checks}\label{attention-checks}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  covid\_objective
+\item
+  covid\_subjective
+\item
+  media\_consumption
+\item
+  scq
+\item
+  sasrq
+\item
+  bfq
+\item
+  ipaq
+\item
+  ptgi
+\end{enumerate}
 
 \hypertarget{study-2---egg---about}{%
 \chapter{Study 2 - EGG - About}\label{study-2---egg---about}}
@@ -465,6 +735,5 @@ The study will test several hypotheses.
 \end{enumerate}
 
 \bibliography{book.bib,packages.bib,ref.bib}
-
 
 \end{document}
