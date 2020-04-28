@@ -1,5 +1,5 @@
 --- 
-title: "EGG/COVID-19 and Emotionality"
+title: "Inside Out"
 author: "Emily Towner"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -9,7 +9,7 @@ bibliography: [book.bib, packages.bib, ref.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: rstudio/bookdown-demo
-description: "These are the notes, logs, and protocols for the EGG/COVID and Emotionality study at the Brain and Body Lab at UCLA"
+description: "These are the notes, logs, and protocols for the Inside Out study at the Brain and Body Lab at UCLA"
 ---
 
 # Introduction

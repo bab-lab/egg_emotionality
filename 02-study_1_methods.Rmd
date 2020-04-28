@@ -39,26 +39,37 @@
 | usq | Undergraduate stress questionnaire | The undergraduate stress inventory presents students with various stressors and asks them to indicate if any of the events have happened to them. They are also asked how stressed they are by this event. 
 | brcs | Brief resilient coping scale | The Brief Resilient Coping Scale (BRCS) is a 4-item measure designed to capture tendencies to cope with stress in a highly adaptive manner
 
-
 ### Mental health
-- State and trait anxiety inventory (stai)
-- Depression (bdi_ii)
-- Mental health history
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| stai | State-Trait Anxiety Inventory | The State-Trait Anxiety Inventory (STAI) is a commonly used measure of trait and state anxiety. It can be used in clinical settings to diagnose anxiety and to distinguish it from depressive syndromes.
+| bdi | Beck depression inventory | Developed for the assessment of symptoms corresponding to criteria for diagnosing depressive disorders listed in the DSM IV
+| mental_health_history | Mental health history | A questionnaire to assess mental health history
     
 ### Social
-- UCLA loneliness scale
-- Social craving (may need to adapt substance craving scale)(adapt from food cravings questionnaire - trait and state - may need to also adapt dimensions of social craving)
-- Adolescent Social Connection & coping during COVID-19 (ASC3Q)
-- mspss
-- scs 
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| uclals | UCLA loneliness scale | A 20-item scale designed to measure one’s subjective feelings of loneliness as well as feelings of social isolation. 
+| scq | Social craving questionnaire | A measure designed to address social cravings.  | Made by BABLab
+| asc | Adolescent social connection and coping during COVID-19 | This questionnaire is designed to learn about the ways you connect with people, and how it makes you feel. This might be affected by the COVID-19 outbreak, especially when following physical distancing or shelter-in-place orders.  
+| mspss | Multidimensional scale of perceived social support | The Multidimensional Scale of Perceived Social Support (MSPSS) is a brief research tool designed to measure perceptions of support from 3 sources: Family, Friends, and a Significant Other. The scale is comprised of a total of 12 items, with 4 items for each subscale.
+| scs | Social comparison scale | This scale was developed by Allan and Gilbert (1995) to measure self-perceptions of social rank and relative social standing. This scale uses a semantic differential methodology and consists of 11 bipolar constructs. 
 
 
 ### Personality
 
-- Introversion and extroversion scale
-- Tolerance for uncertainty/ambiguity/change (tolerance of ambiguity scale)(intolerance for uncertainty scale)
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| bfi_10 | Big five personality inventory | Inventory that measures an individual on the big five factors of personality (extraversion, agreeableness, conscentiousness, neuroticism, and openness to experience).
+| ius | Intolerance of uncertainty scale | The Intolerance of Uncertainty Scale includes items relating to the idea that uncertainty is unacceptable, reflects badly on a person, and leads to frustration, stress, and the inability to take action
+
 
 ### Lifestyle
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
 
 - Sleep
 - Timeline
