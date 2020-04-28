@@ -1,3 +1,13 @@
 `r if (knitr:::is_html_output()) '
 # References {-}
 '`
+
+# References
+
+Callaghan, B. L., Fields, A., Gee, D. G., Gabard-Durnam, L., Caldera, C., Humphreys, K. L., Goff, B., Flannery, J., Telzer, E. H., Shapiro, M., & Tottenham, N. (2020). Mind and gut: Associations between mood and gastrointestinal distress in children exposed to adversity. Development and Psychopathology, 32(1), 309–328. https://doi.org/10.1017/S0954579419000087
+
+Firestein, M., & Callaghan, B. (2019). The brain–gut connection: Environmental influences on gastrointestinal biology and neurobehavior across development. Developmental Psychobiology, 61(5), 639–639. https://doi.org/10.1002/dev.21869
+
+Lee, S., Wu, J., Ma, Y. L., Tsang, A., Guo, W.-J., & Sung, J. (2009). Irritable bowel syndrome is strongly associated with generalized anxiety disorder: A community study. Alimentary Pharmacology & Therapeutics, 30(6), 643–651. https://doi.org/10.1111/j.1365-2036.2009.04074.x
+
+Vianna, E. P. M., & Tranel, D. (2006). Gastric myoelectrical activity as an index of emotional arousal. International Journal of Psychophysiology, 61(1), 70–76. https://doi.org/10.1016/j.ijpsycho.2005.10.019

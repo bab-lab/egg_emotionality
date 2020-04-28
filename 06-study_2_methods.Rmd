@@ -1,0 +1,50 @@
+# Study 1 - COVID - Methods
+
+## Information
+
+Enrollment
+Participants will sign up for lab session slots at least 48 hours ahead of time to ensure ability to consent and complete home session. We will set the SONA to reflect the 48 hour rule as well as instruct participants that they must complete the online session before their scheduled lab session.
+
+Consent
+The researcher will email the participant the consent form to review and sign electronically. Any questions will be answered at this time. We will direct female participants to wear a sports bra and a comfortable t-shirt. We will mention that we have a hospital gown if they prefer. We will also mention that it might be a male experimenter, so for all participants to look at the diagram and be sure they are comfortable (female experimenter can be available if necessary). We will also ask male participants if they are comfortable shaving any chest/stomach hair for the session and will send them a photo demonstrating the regions involved. We will also tell participants that their response time will be monitored, so to please read and respond carefully to all surveys.
+
+Home Session
+Assign the participant a Participant ID
+Log the ID, name, email address, and contact information (if given) into the ID drive
+Enroll the participant on REDCap
+Email the participant (using the email template) the home session REDCap link, including instructions for the home and lab session.
+Lab Session
+Before the lab session, the researcher will check the home session submissions and record the time to completion to ensure that responses are being paid attention to.
+
+All lab sessions take place between 12 p.m. and 6 p.m. Participants are instructed not to eat for 1 hour before their session.
+
+Participants will complete several questionnaires in the lab including the med_check, female health, panas, stai_state, and info.
+
+A two part SONA study will require the participant to complete the home session before the lab session.
+
+The researcher will book the Bear's Den using the calendar system.
+
+Drink bottle of water
+Consent
+Apply physiology stickers
+Round 1 of movie watching
+Complete PANAS
+Round 2 of movie watching
+Complete PANAS
+Round 3 of movie watching
+Complete PANAS
+Height, weight, and waist measurement
+Debrief
+Files
+Each participant file should include
+
+3 physio files
+3 psychopy files
+1 photocopy of the run sheet
+Run Sheet
+Will include
+
+Observer ratings of startle scale
+Notes on laughing nervously, jumping, screaming, shrieking (to account for movement)
+Data Analysis
+Will include factor analysis for somna
