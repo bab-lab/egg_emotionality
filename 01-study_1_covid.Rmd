@@ -1,27 +1,40 @@
 
-
-# Study 1 - COVID - About
+# Inside Out
 
 ## Summary
 
-TEST
+The purpose of this two-part study is to explore the relationship between somatic symptoms and emotions in adults. 
 
-This study will explore the relationship between the global COVID-19 pandemic, somatic symptoms, and psychological stress. 
+Recruitment target: *n* = 150.
 
-This study will explore the relationship between emotions and somatic symptamology in the wake of the COVID-19 pandemic, while exploring individual differences in social, environmental, personality, and lifestyle factors which may mitigate or exacerbate the negative psychological impact of this stressor. 
 
-The specific aims of this study are to (1) establish a relationship between psychological stress and somatic symptoms as assessed by our newly developed Somatic Symptoms of Negative Affect (somna) questionnaire, (2) investigate the individual differences that might influence the somatic and psychological response to stress (such as early life stress, social support, media consumption, diet and exercise, lifestyle habits, trait variables, etc.), and (3) examine how specific somatic symptoms in the context of stress may relate to mental health.
+### COVID-19
 
-We will recruit N = 200 (minimum 150) adult participants. Participants will be recruited online from the UCLA participant pool in the university term directly after the outbreak of COVID-19. Participants will complete a range of questionnaires assessing current levels of stress, social and emotional support and functioning, physical health symptoms, early life adversity, media exposure and consumption, and lifestyle factors.
+Part 1 will be an online study that will explore the relationship between emotions and somatic symptamology in the wake of the COVID-19 pandemic, while exploring individual differences in social, environmental, personality, and lifestyle factors which may mitigate or exacerbate the negative psychological impact of this stressor. 
 
-## Keywords
-stress, emotions, mental health, somatic symptoms
+
+Participants will complete a range of questionnaires assessing social and emotional functioning, physical health symptoms, early life adversity, physical health, and a range of questionnaires assessing the impact of COVID-19.
+
+
+### EGG Follow-Up
+
+Part 2 will be an in-person study that will explore the relationship between gastrointestinal activity and emotions utilizing electrogastrography. 
+
+Participants who had previously completed Part I will return for an in-person session in the lab in which they will watch a series of sad, scary, and neutral movies while electrophysiology recordings are made. Then they will complete a range of questionnaires assessing social and emotional functioning, physical health symptoms, early life adversity, and physical health assessments.
+
+---------------
+
+## Keywords 
+
+stress, emotions, mental health, somatic symptoms, egg, physiology
+
+-------------------
 
 ## Background
 
 While we often describe our emotions as "gut feelings", surprisingly little research has examined how emotions and the gastrointestinal system interact. Given the onset of a global pandemic, the situation provides a unique opportunity to investigate how an emotion inducing real-world event, COVID-19, might influence somatic symptoms and the stress response. 
 
-Prior research during public health crises such as the SARS epidemic in 2006 reveal that the stress associated with quarantine during the epidemic was associated with higher symptoms of acute stress disorder and later post traumatic stress symptoms [@baiSurveyStressReactions2004]. However, research also reveals that in the wake of the SARS epidemic, individuals found their friends and family members more supportive [@lauPositiveMentalHealthrelated2006]. Similarly, research suggests that social support obtained through social interactions after the events of September 11th, 2001, reduced college students' symptoms of both depression and physical illness [@macgeorgeStressSocialSupport2004]. 
+Prior research during public health crises, such as the SARS epidemic in 2006, reveal that the stress associated with quarantine during the epidemic was associated with higher symptoms of acute stress disorder and later post traumatic stress symptoms (Bai et al., 2004). However, research also reveals that in the wake of the SARS epidemic, individuals found their friends and family members more supportive (Lau, Yang, Tsui, Pang, & Wing, 2006). Similarly, research suggests that social support obtained through social interactions after the events of September 11th, 2001 reduced college students' symptoms of both depression and physical illness (MacGeorge, Samter, Feng, Gillihan, & Graves, 2004). 
 
 Given that gastrointestinal and mental heath problems are highly comorbid, with anxiety five times higher in individuals with irritable bowel syndrome (IBS) than in those with no IBS symptoms (Lee et al., 2009), gastrointestinal and somatic symptoms may serve as a useful indicator of emotional functioning, particularly during this period of heightened awareness of physical health amid the COVID-19 pandemic. For example, stress in early life can affect both emotional and gastrointestinal symptoms and functioning. One study demonstrated that previous adverse care experiences were associated with both increased anxiety and incidence of gastrointestinal symptoms in youth (Callaghan et al., 2019). In addition, early adversity was associated with changes in gastrointestinal microbiome diversity that were correlated with neural activation to emotional faces (Callaghan et al., 2019). 
 
@@ -29,21 +42,22 @@ Physiological methods such as heart rate and sweat response are common indicator
 
 Few studies have explored the way that individual differences including early stress, social support, media consumption, and lifestyle factors may mitigate or exacerbate the negative somatic psychological impact of a stressor as well as the way that these variables and emotional functioning may influence the EGG response to negatively emotionally arousing movie clips.
 
-Using qustionnaires and electrogastrography, we seek to investigate the relationship between somatic symptoms (particularly gastrointestinal symptoms) gastric myoelectrical activity, and emotional functioning, in the context of a public health crisis as well as during emotionally arousing movie clips. We also hope to explore factors that might influence gastrointestinal responses to emotional arousal, and whether and how physical sensations are associated with emotions and physiological responses. We also hope to evaluate how EGG sits with other physiological measures, such as heart rate and sweat response, in order to explore whether emotional patterning of physiological responses contribute to meaningful differences in emotion regulation, the stress response, and mental health. 
+Using questionnaires and electrogastrography, we seek to investigate the relationship between somatic symptoms (particularly gastrointestinal symptoms), gastric myoelectrical activity, and emotional functioning, in the context of a public health crisis as well as during emotionally arousing movie clips. We also hope to explore factors that might influence gastrointestinal responses to emotional arousal, and whether and how physical sensations are associated with emotions and physiological responses. We also hope to evaluate how EGG sits with other physiological measures, such as heart rate and sweat response, in order to explore whether emotional patterning of physiological responses contribute to meaningful differences in emotion regulation, the stress response, and mental health. 
 
-
+-----------------
 
 ## Specific Aims
-The study will test several hypotheses.
 
-1. Establish a relationship between COVID-19 stress and somatic symptoms
-    - Higher perceived stress during the outbreak of COVID-19 will be associated with greater somatic symptomology on the somna.
-    - Increased interoceptive awareness since the onset of COVID-19 will be associated with greater somatic symptomology 
-    - Increased health anxiety since the onset of COVID-19 will be associated with greater somatic symtpomology
+### COVID-19
 
-2. Examine how specific somatic symptoms in the context of COVID-19 stress may relate to mental health.
-    - Somatic symptomology will mediate the relationship between perceived stress and anxiety, depression, and panic. 
-   
-3. Investigate individual differences that might influence the emotional response to COVID-19 stress (such as early life stress, social support, media consumption, diet and exercise, lifestyle habits, trait variables, etc.).
-    - Early life stress will be associated with an increased emotional response to COVID-19 stress.
-    - Social support, lifestyle habits (such as sleep, diet, and exercise), personality traits, and media consumption will moderate the association between current stress and emotional response. 
+1. Establish a relationship between psychological stress and somatic symptoms as assessed by our newly developed Somatic Symptoms of Negative Affect (SOMNA) Questionnaire. 
+2. Investigate the individual differences that might influence the somatic and psychological response to stress (such as early life stress, social support, media consumption, diet and exercise, lifestyle habits, trait variables, etc.)
+3. Examine how specific somatic symptoms in the context of stress may relate to mental health
+
+### EGG Follow-Up
+
+1. Establish a relationship between emotionally arousing stimuli and the EGG response
+2. Investigate the individual differences that might influence the EGG response to stress (such as early life stress, current stress, trait variables, etc.)
+3. Examine how the EGG response sits with other physiological indices (such as heart rate and sweat response)
+4. Explore the ways in which physical sensations are associated with emotions and physiological responses
+
