@@ -12,7 +12,11 @@ github-repo: rstudio/bookdown-demo
 description: "These are the notes, logs, and protocols for the Inside Out study at the Brain and Body Lab at UCLA"
 ---
 
-# Introduction
+#
+
+![<!--- Intro --->](images/inside_out_banner.png)
+
+<h1>Introduction</h1>
 
 It is no surprise that often people experience strong emotional responses in their bodies. However, physical symptoms, particularly gastrointestinal symptoms, have scarcely been studied as a measure of emotional arousal. This study will explore the relationship between physical and emotional symptoms and health. In addition, we will explore the impact of the COVID-19 pandemic on physical and emotional health.
 
