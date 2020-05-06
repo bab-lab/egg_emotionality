@@ -14,7 +14,9 @@ description: "These are the notes, logs, and protocols for the Inside Out study 
 
 # Introduction
 
-The EGG and Emotionality
+**Physiology of Emotional Reactivity**
+
+It is no surprise that often people experience strong emotional responses in their bodies. However, physical symptoms, particularly gastrointestinal symptoms, have scarcely been studied as a measure of emotional arousal. This study will explore the relationship between physical and emotional symptoms and health. In addition, we will explore the impact of the COVID-19 pandemic on physical and emotional health.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
