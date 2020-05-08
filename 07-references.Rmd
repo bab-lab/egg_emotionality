@@ -7,3 +7,17 @@ Firestein, M., & Callaghan, B. (2019). The brain–gut connection: Environmental
 Lee, S., Wu, J., Ma, Y. L., Tsang, A., Guo, W.-J., & Sung, J. (2009). Irritable bowel syndrome is strongly associated with generalized anxiety disorder: A community study. Alimentary Pharmacology & Therapeutics, 30(6), 643–651. https://doi.org/10.1111/j.1365-2036.2009.04074.x
 
 Vianna, E. P. M., & Tranel, D. (2006). Gastric myoelectrical activity as an index of emotional arousal. International Journal of Psychophysiology, 61(1), 70–76. https://doi.org/10.1016/j.ijpsycho.2005.10.019
+
+Buysse, D.J., Reynolds III, C.F., Monk, T.H., Berman, S.R., & Kupfer, D.J. (1989). The Pittsburgh Sleep Quality Index: A new instrument for psychiatric practice and research. Journal of Psychiatric Research, 28(2), 193-213.
+
+Mehling, W. E., Price, C., Daubenmier, J. J., Acree, M., Bartmess, E., and Stewart, A. (2012). The multidimensional assessment of interoceptive awareness (MAIA). PLoS ONE 7:e48230. doi: 10.1371/journal.pone.0048230
+
+M Salkovskis, KA Rimes, HMC Warwick, DM Clark. The Health Anxiety Inventory: development and validation of scales for the measurement of health anxiety and hypochondriasis. Psychol Med. 2006; 32(5):843–853.
+
+Körber, S., Frieser, D., Steinbrecher, N., & Hiller, W. (2011). Classification characteristics of the Patient Health Questionnaire-15 for screening somatoform disorders in a primary care setting. Journal of Psychosomatic Research, 71(3), 142–147. https://doi.org/10.1016/j.jpsychores.2011.01.006
+
+Pennebaker, J. W. (1982). The Psychology of Physical Symptoms. New York: Springer-Verlag.
+
+Varni, J.W., Kay, M.T., Limbers, C.A., Franciosi, J.P., & Pohl, J.F. (2012). PedsQL™ Gastrointestinal Symptoms Module item development: Qualitative methods. Journal of Pediatric Gastroenterology & Nutrition, 54, 664-671
+
+Steiner, M., Macdougall, M., & Brown, E. (2003). The premenstrual symptoms screening tool (PSST) for clinicians. Archives of Women’s Mental Health, 6(3), 203–209. https://doi.org/10.1007/s00737-003-0018-4
