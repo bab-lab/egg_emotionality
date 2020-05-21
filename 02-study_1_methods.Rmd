@@ -10,6 +10,13 @@
 | demographics | Demographics questionnaire | Assesses socioeconomic status, employment, and  commitments (e.g., volunteer work, child care) | Made by BABLab
 | covid_objective | Objective impact of COVID-19 | Assesses the objective impact of COVID-19 including infection, quarantine, household, social distancing etc. | Made by BABLab
 
+### Affect
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| panas | Positive and negative affect schedule | Assesses current and retrospective (past week) degree of self-reported positive and negative affect through emotion words | Watson, Clark, & Tellegen, 1988
+| paq | Perth alexithymia questionnaire | Assesses all components of alexithymia (i.e., difficulty identifying and describing one’s own feelings and having an externally orientated thinking style) across negative and positive emotions | Preece et al., 2018
+
 ### Somatic
 
 | Title        | Name           | Description  | Reference  |
