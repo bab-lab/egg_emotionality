@@ -104,9 +104,30 @@
 | Title        | Name           | Description  | Reference  |
 | ------------ |--------------- | ------------ | ---------- |
 | written_response | Long form qualitative written response | Prompts respondent to reflect on and describe within a 5 minute time frame how COVID-19 has impacted daily life | Adapted from Pennebaker, 1997 |
+<br> 
+<br> 
+**The following measures were adapted from their original versions for Inside Out:**
 
-**Prompt:**
+- ss <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- hai <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- pedsql_gi <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- psqi <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- shs <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- ipaq <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- bfi <br> 
+*BFI-10 plus additional questions assessing Introversion/Extroversion taken from the original BFI (44-items)*
 
-*I would like for you to write about your very deepest thoughts and feelings about the way COVID-19 has affected you and your life. I'd like you to really let go and explore your very deepest emotions and thoughts. You might tie your topic to your relationships with others including parents, lovers, friends, or relatives, to your past, your present, of your future, or to who you have been, who you would like to be, or who you are now. All of your writing will be completely confidential. Don't worry about spelling, sentence structure or grammar. The only rule is that you begin writing and keep writing until 5 minutes have passed.*
+
+
+
+
+
+
 
 
