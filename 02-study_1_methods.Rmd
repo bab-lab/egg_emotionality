@@ -105,7 +105,7 @@
 | ------------ |--------------- | ------------ | ---------- |
 | written_response | Long form qualitative written response | Prompts respondent to reflect on and describe within a 5 minute time frame how COVID-19 has impacted daily life | Adapted from Pennebaker, 1997 |
 <br> 
-<br> 
+
 **The following measures were adapted from their original versions for Inside Out:**
 
 - ss <br> 
@@ -124,7 +124,7 @@
 *BFI-10 plus additional questions assessing Introversion/Extroversion taken from the original BFI (44-items)*
 
 
-
+-----------------------------
 
 
 
