@@ -1,0 +1,133 @@
+# Study 1 - COVID - Methods
+
+## Measures
+
+### Information
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| info | Information questionnaire | Assesses demographics, health, and location information | Made by BABLab
+| demographics | Demographics questionnaire | Assesses socioeconomic status, employment, and  commitments (e.g., volunteer work, child care) | Made by BABLab
+| covid_objective | Objective impact of COVID-19 | Assesses the objective impact of COVID-19 including infection, quarantine, household, social distancing etc. | Made by BABLab
+
+### Affect
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| panas | Positive and negative affect schedule | Assesses current and retrospective (past week) degree of self-reported positive and negative affect through emotion words | Watson, Clark, & Tellegen, 1988
+| paq | Perth alexithymia questionnaire | Assesses all components of alexithymia (i.e., difficulty identifying and describing one’s own feelings and having an externally orientated thinking style) across negative and positive emotions | Preece et al., 2018
+
+### Somatic
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| somna | Somatic markers of negative affect | Assesses physical sensations of anxiety and sadness, where they are located, and their intensity | Made by BABLab
+| maia | Multidimensional Assessment of Interoceptive Awareness | Multidimensional self-report measure of interoceptive body awareness |Mehling et al., 2012
+| hai | Health anxiety inventory | Assesses people's anxiety about health symptoms (hypochondriasis) | Salkovskis et al., 2006 
+| ss | Somatic symptoms | Assesses a range of somatic symptoms in adult participants | Körber et al., 2011
+| pill | Pennebaker inventory of limbid languidness | Measures people's tendency to notice and report a braod array of physical symptoms and sensations | Pennebaker, 1982
+| pedsql_gi | Pediatric Quality of life – Gastrointestinal Symptoms Module | Assess incidence of Gastrointestinal Symptoms and fatigue in children | Varni et al., 2015
+| med_check | Medication checklist | List of medications that participants are on – needed for physiology analyses as well as verification of physical health issues | Made by BABLab
+| gastrointestinal_disorders | Gastrointetsinal disorders questionnaire | Assesses gastrointestinal issues, their frequency and intensity | Made by BABLab
+| rome | Rome IV criteria questionnaire | Assesses the presence of symptoms which meet criteria for irritable bowel syndrome as stated by the Rome IV | Made by BABLab
+| menstrual_cycle | Menstrual cycle questionnaire | Assesses menstrual phase, which affects gastrointestinal responding, as well as medications which may affect menstrual phase such as oral contraceptive use | Made by BABLab
+| psst | Premenstrual symptoms screening tool | Assesses premenstrual syndromes and criteria for premenstrual dysphoric disorder (pmdd) as well as premenstrual syndrome (pms) |  Steiner, Macdougall, & Brown, 2003
+| bss | Bristol stool scale | Diagnostic medical stool designed to classify the form of human faeces into seven categories | Bristol Royal Infirmary
+
+### Stress
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| covid_subjective | Subjective impact of COVID-19 | Assesses the subjective impact of COVID-19 on well-being | Made by BABLab
+| pss | Perceived stress scale | Examines how different situations affected feelings and  perceived stress in the last month | Cohen, Kamarck, & Mermelstein, 1983
+| sasrq | Stanford acute stress reaction questionnaire | Assesses the psychological symptoms experienced in the aftermath of a traumatic event | Cardeña et al., 2000
+| cte | Childhood traumatic events questionnaire | The Childhood Traumautic Events Questionnaire is a brief survey of six early traumatic experiences (death, divorce, violence, sexual abuse, illnesss, and upheaval) | Pennebaker & Susman, 2013
+| ctq | Childhood trauma questionnaire | Assesses the severity of emotional abuse and neglect, physical abuse and neglect and sexual abuse | Bernstein, 1994
+| ccfq | Cognitive control and flexibility questionnaire | Measures an individual's percevied ability to exert control over intrusive, unwanted (negative) thoughts and emotions, and their ability to flexibly cope with a stressful situation | Gabrys et al., 2018
+| ptgi | Post-traumatic growth inventory | An instrument for assessing positive outcomes reported by persons who have experienced traumatic events | Tedeschi, & Calhoun, 1996
+| usq | Undergraduate stress questionnaire | The undergraduate stress inventory presents students with various stressors and asks them to indicate if any of the events have happened to them. They are also asked how stressed they are by this event | Crandall, Preisler, & Aussprung, 1992
+| brcs | Brief resilient coping scale | The Brief Resilient Coping Scale (BRCS) is a 4-item measure designed to capture tendencies to cope with stress in a highly adaptive manner | Sinclair & Wallston, 2004 
+
+### Mental health
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| stai | State-Trait Anxiety Inventory | Measure of trait and state anxiety that can be used in clinical settings to diagnose anxiety and to distinguish it from depressive syndromes | Spielberger, 1989
+| bdi | Beck depression inventory | Developed for the assessment of symptoms corresponding to criteria for diagnosing depressive disorders listed in the DSM IV | Beck, Steer, & Brown, 1996  
+| mental_health_history | Mental health history | A questionnaire to assess mental health history | Made by BABLab
+    
+### Social
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| uclals | UCLA loneliness scale | A 20-item scale designed to measure one’s subjective feelings of loneliness as well as feelings of social isolation | Russell, Peplau, & Ferguson, 1978
+| scq | Social craving questionnaire | A measure designed to address social cravings.  | Made by BABLab
+| asc | Adolescent social connection and coping during COVID-19 | Designed to learn about the ways you connect with people, and how it makes you feel. This might be affected by the COVID-19 outbreak, especially when following physical distancing or shelter-in-place orders | Pfeifer et al., 2020
+| mspss | Multidimensional scale of perceived social support | Measures perceptions of support from 3 sources: Family, Friends, and a Significant Other | Zimet, 1990
+| scs | Social comparison scale | Measures self-perceptions of social rank and relative social standing | Allan & Gilbert, 1995
+
+
+### Personality
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| bfi_10 | Big five personality inventory | Inventory that measures an individual on the big five factors of personality (extraversion, agreeableness, conscentiousness, neuroticism, and openness to experience) | Rammstedt & John, 2007
+| ius | Intolerance of uncertainty scale | Examines self-reported degree of agreement with the idea that uncertainty is unacceptable, reflects badly on a person, and leads to frustration, stress, and the inability to take action | Carleton, Norton, & Asmundson, 2007
+
+
+### Lifestyle
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| psqi | Pittsburgh sleep quality index | Measures the quality and patterns of sleep in adults, differentiating “poor” from “good” sleep quality by measuring seven areas (components): subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medications, and daytime dysfunction over the last month | Buysse et al., 1989 
+| timeline | Timeline questionnaire | Free response assessment of how participants spend an average day in hour increments | Made by BABLab
+| bfq | Brief food questionnaire | Assesses participants consumption of food groups | Made by BABLab
+| ipaq | International physical activity questionnaire | Asks questions on physical activity | Booth, 2000
+
+### Media
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| media_consumption | Media consumption questionnaire | Examines media consumption in the typical two-week period before COVID-19 and current consumption. Social media usage, news consumption, public health information consumption, and COVID-19 beliefs are assessed | Made by BABLab
+| smcs | Social media craving scale | Evaluates social media desire by examining frequency and duration of thoughts about social media use as well as degree of difficulty in resisting social media use | Savci & Griffiths, 2019
+
+
+### Well-being
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| shs | Subjective happiness scale | A 4-item measure of gloval subjective happiness | Lyubomirsky & Lepper, 1999
+
+
+### Qualitative
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| written_response | Long form qualitative written response | Prompts respondent to reflect on and describe within a 5 minute time frame how COVID-19 has impacted daily life | Adapted from Pennebaker, 1997 |
+<br> 
+
+**The following measures were adapted from their original versions for Inside Out:**
+
+- ss <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- hai <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- pedsql_gi <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- psqi <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- shs <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- ipaq <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- bfi <br> 
+*BFI-10 plus additional questions assessing Introversion/Extroversion taken from the original BFI (44-items)*
+
+
+-----------------------------
+
+
+
+
+
+
