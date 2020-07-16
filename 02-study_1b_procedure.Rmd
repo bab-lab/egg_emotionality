@@ -1,0 +1,33 @@
+### Procedure
+
+#### Recruitment
+
+Participants were recruited via SONA.
+
+#### Timing
+
+20-30 minutes
+
+#### Questionnaire Order
+
+1. information
+2. somna
+3. cte
+4. somatic_symptoms (assessed currently and retrospectively before COVID-19)
+5. ctq
+6. pill
+7. ace
+8. pedsql_gi (assessed currently and retrospectively before COVID-19)
+9. bdi_ii (assessed currently and retrospectively before COVID-19)
+10. gastro
+11. stai
+12. rome
+13. alexithymia
+14. covid_objective
+15. demographics
+
+
+#### Attention Checks
+
+1. covid_objective
+

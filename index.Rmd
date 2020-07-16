@@ -29,11 +29,16 @@ Recruitment target: N = 150.
 
 <h3>Study 1 - COVID-19</h3>
 
+**Online Study 1**
+
 Part 1 will be an online study that will explore the relationship between emotions and somatic symptamology in the wake of the COVID-19 pandemic, while exploring individual differences in social, environmental, personality, and lifestyle factors which may mitigate or exacerbate the negative psychological impact of this stressor. 
 
 
 Participants will complete a range of questionnaires assessing social and emotional functioning, physical health symptoms, early life adversity, physical health, and a range of questionnaires assessing the impact of COVID-19.
 
+**Online Study 1B**
+
+Part 1B will be a shortened version of Part 1 in an independent sample. This will allow us to run confirmatory analyses on our questionnaire validation of the somna.
 
 <h3>Study 2 - EGG</h3>
 

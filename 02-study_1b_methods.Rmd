@@ -1,0 +1,59 @@
+## Online Survey #1B
+
+### Measures
+
+#### Information
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| info | Information questionnaire | Assesses demographics, health, and location information | Made by BABLab
+| demographics | Demographics questionnaire | Assesses socioeconomic status, employment, and  commitments (e.g., volunteer work, child care) | Made by BABLab
+| covid_objective | Objective impact of COVID-19 | Assesses the objective impact of COVID-19 including infection, quarantine, household, social distancing etc. | Made by BABLab
+
+#### Affect
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| panas | Positive and negative affect schedule | Assesses current and retrospective (past week) degree of self-reported positive and negative affect through emotion words | Watson, Clark, & Tellegen, 1988
+| paq | Perth alexithymia questionnaire | Assesses all components of alexithymia (i.e., difficulty identifying and describing one’s own feelings and having an externally orientated thinking style) across negative and positive emotions | Preece et al., 2018
+
+#### Somatic
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| somna | Somatic markers of negative affect | Assesses physical sensations of anxiety and sadness, where they are located, and their intensity | Made by BABLab
+| ss | Somatic symptoms | Assesses a range of somatic symptoms in adult participants | Körber et al., 2011
+| pill | Pennebaker inventory of limbid languidness | Measures people's tendency to notice and report a braod array of physical symptoms and sensations | Pennebaker, 1982
+| pedsql_gi | Pediatric Quality of life – Gastrointestinal Symptoms Module | Assess incidence of Gastrointestinal Symptoms and fatigue in children | Varni et al., 2015
+| gastrointestinal_disorders | Gastrointetsinal disorders questionnaire | Assesses gastrointestinal issues, their frequency and intensity | Made by BABLab
+| rome | Rome IV criteria questionnaire | Assesses the presence of symptoms which meet criteria for irritable bowel syndrome as stated by the Rome IV | Made by BABLab
+
+#### Early Life Stress 
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| cte | Childhood traumatic events questionnaire | The Childhood Traumautic Events Questionnaire is a brief survey of six early traumatic experiences (death, divorce, violence, sexual abuse, illnesss, and upheaval) | Pennebaker & Susman, 2013
+| ctq | Childhood trauma questionnaire | Assesses the severity of emotional abuse and neglect, physical abuse and neglect and sexual abuse | Bernstein, 1994
+| ace | Adverse childhood experiences survey | Adverse childhood experiences (ACEs) include verbal, physical, or sexual abuse, as well as family dysfunction (e.g., an incarcerated, mentally ill, or substance-abusing family member; domestic violence; or absence of a parent because of divorce or separation). ACEs have been linked to a range of adverse health outcomes in adulthood, including substance abuse, depression, cardiovascular disease, diabetes, cancer, and premature mortality. | Felitti et al., 1998
+
+#### Mental health
+
+| Title        | Name           | Description  | Reference  |
+| ------------ |--------------- | ------------ | ---------- |
+| stai | State-Trait Anxiety Inventory | Measure of trait and state anxiety that can be used in clinical settings to diagnose anxiety and to distinguish it from depressive syndromes | Spielberger, 1989
+| bdi | Beck depression inventory | Developed for the assessment of symptoms corresponding to criteria for diagnosing depressive disorders listed in the DSM IV | Beck, Steer, & Brown, 1996  
+
+**The following measures were adapted from their original versions for Inside Out:**
+
+- ss <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+- pedsql_gi <br> 
+*includes retrospective (pre-COVID-19) and current assessment*
+
+-----------------------------
+
+
+
+
+
+

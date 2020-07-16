@@ -1,6 +1,6 @@
-## Procedure
+### Procedure
 
-### Recruitment
+#### Recruitment
 
 Participants were recruited in two ways - via SONA and via a raffle.
 
@@ -8,7 +8,7 @@ The following materials were used:
 
 ![<!--- Recruitment --->](images/inside_out_instagram.png)
 
-### Timing
+#### Timing
 
 Pilot time:
 
@@ -16,7 +16,7 @@ Pilot time:
 - Research Assistant #2 - 1  hour and 15 minutes
 - Research Assistant #3 - 1 hour and 5 minutes
 
-### Questionnaire Order
+#### Questionnaire Order
 
 1. panas (assessed 3 times - once at beginning, once before writing, once after writing)
 2. information
@@ -61,7 +61,7 @@ Pilot time:
 41. panas
 
 
-### Attention Checks
+#### Attention Checks
 
 1. covid_objective
 2. covid_subjective
