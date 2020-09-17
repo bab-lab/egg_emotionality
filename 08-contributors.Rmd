@@ -1,0 +1,27 @@
+# Contributors
+
+## General
+
+| Name         | Role                                         
+| ------------ |------------------------------------------------- | 
+| Bridget Callaghan | Study conception, design, planning, supervision
+| Emily Towner | Study conception, design, planning, implementation, enrollment, data cleaning, documentation creation
+| Danielle Ladensack | Study conception, design, planning, implementation, enrollment
+| Kristen Chu | Study design, planning, enrollment
+| Chloe Schwartz | Recruitment, enrollment, documentation editing
+| Aileen Gozali | Implementation, piloting
+| Nicole Fonacier | Recruitment, piloting
+
+
+## Projects / Papers
+
+### Virtual Social Loneliness
+
+| Name         | Role                                         
+| ------------ |------------------------------------------------- | 
+| Bridget Callaghan | Supervision, writing, editing
+| Emily Towner | Data analysis, writing, preregistration
+
+
+
+
