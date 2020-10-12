@@ -10,7 +10,10 @@
 | Kristen Chu | Study design, planning, enrollment
 | Chloe Schwartz | Recruitment, enrollment, documentation editing
 | Aileen Gozali | Implementation, piloting
-| Nicole Fonacier | Recruitment, piloting
+| Nicole Fonacier | Recruitment, piloting, REDCap questionnaire entry
+| Mikey To | Clinical cutoffs, undergraduate project
+| Alyssa Wieand | REDCap questionnaire entry
+| Reese Wix | REDCap questionnaire entry
 
 
 ## Projects / Papers
@@ -23,5 +26,45 @@
 | Emily Towner | Data analysis, writing, preregistration
 
 
+### COVID, Distress, and ELS
 
+| Name         | Role                                         
+| ------------ |------------------------------------------------- | 
+| Bridget Callaghan | Supervision, writing, editing
+| Emily Towner | Data analysis, ISDP 2020 poster
+
+
+### Health Anxiety, Somatic Symptoms, and Media Consumption Amid COVID-19
+
+| Name         | Role                                         
+| ------------ |------------------------------------------------- | 
+| Bridget Callaghan | Supervision
+| Emily Towner | Preregistration
+| Mikey To | Concept generation, undergraduate honors project
+
+
+### Health Behaviors and Stress During the COVID-19 Pandemic
+
+| Name         | Role                                         
+| ------------ |------------------------------------------------- | 
+| Bridget Callaghan | Supervision
+| Emily Towner | Preregistration
+| Danielle Ladensack | Preregistration
+
+
+### Mental Health Change Amidst the COVID-19 Pandemic
+
+| Name         | Role                                         
+| ------------ |------------------------------------------------- | 
+| Bridget Callaghan | Supervision
+| Emily Towner | Preregistration
+
+
+### Somatic Markers of Negative Affect (SOMNA) Validation
+
+| Name         | Role                                         
+| ------------ |------------------------------------------------- | 
+| Bridget Callaghan | Supervision, SOMNA development
+| Emily Towner | SOMNA development
+| Danielle Ladensack | SOMNA development
 
